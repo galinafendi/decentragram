@@ -1,1 +1,14 @@
 /* Styles go here */
+
+body {
+    background-color: white;
+}
+
+main {
+    background-color: #da5454;
+}
+
+.btn-primary {
+    background-color: #150a3e;
+}
+
